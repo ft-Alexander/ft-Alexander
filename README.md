@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Espinas</h1>
 <h3 align="center">A passionate fullstack Web Developer from the Philippines.</h3>
 
-- 🌱 I’m currently learning **Angular**
-
 - 👯 I’m looking to collaborate on **other Web Development Projects**
 
 - 📫 How to reach me **alexanderespinas01@gmail.com**
